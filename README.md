@@ -5,7 +5,7 @@ This Project includes the following:
 
 <ul>
 <li> Menu with music and settings</li>
-<li>PLayer life</li>
+<li>Player life</li>
 <li>Multiplayer Mode</li>
 <li>Minimap</li>
 <li>Background collision</li>
